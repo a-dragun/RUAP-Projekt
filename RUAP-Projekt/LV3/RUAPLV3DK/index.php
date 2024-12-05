@@ -49,8 +49,8 @@
 <?php
 // DB connection info
 $host = "ruap-lv3-server-adragun.mysql.database.azure.com";
-$user = "a-dragun";
-$pwd = 'jKlm6nQ0';
+$user = "ohebiprnxl";
+$pwd = 'password123!';
 $db = "ruap-lv3-server-adragun";
 
 // Connect to MySQL
